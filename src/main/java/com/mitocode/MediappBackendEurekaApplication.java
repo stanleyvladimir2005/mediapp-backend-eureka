@@ -11,5 +11,4 @@ public class MediappBackendEurekaApplication {
     public static void main(String[] args) {
         SpringApplication.run(MediappBackendEurekaApplication.class, args);
     }
-
 }
